@@ -1,1 +1,2 @@
-# TatvaSoft
+An innovative platform called the Virtual Community Support System (VCSS) was created to help connect community members who need help with the various services that are available to them. VCSS provides a smooth and integrated experience for users by leveraging the dependable PostgreSQL for database management, the dynamic and responsive Angular for the frontend, and the sturdy.NET framework for backend operations.
+
